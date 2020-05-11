@@ -3,6 +3,10 @@
   padding: 0px;
 }
 
+#cont {
+   padding-top: 10vh;
+}
+
 html{
   scroll-behavior: smooth;
 }
@@ -85,7 +89,6 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-
 }
 
 nav > ul {

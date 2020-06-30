@@ -62,14 +62,11 @@ html{
 
 }
 
-#home-content > ul{
+#media-list{
+  margin-top: 2vh;
   display: flex;
   flex-direction: row;
   list-style-type: none;
-}
-
-#media-list{
-  margin-top: 2vh;
 }
 
 h1 {
